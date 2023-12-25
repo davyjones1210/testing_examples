@@ -1,0 +1,1 @@
+assert sum([1, 2, 1]) == 6, "Should be 6"
